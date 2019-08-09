@@ -24,14 +24,13 @@ public class Database {
 			
 			// Execute Query
 			Statement stmt = con.createStatement();			
-			String query = "SELECT * FROM stats WHERE post_id = 1774";
-			ResultSet rs = stmt.executeQuery(query);		
+			String query   = "SELECT * FROM stats LIMIT 5";
+			ResultSet rs   = stmt.executeQuery(query);		
 		
-			// Print Out
+			// Output
 			while (rs.next()) {
-				System.out.println(rs.getInt(1));
-			}
-			
+				System.out.println(rs.getString(2)); // getType: ignore note
+			}			
 			con.close();
 			
 		} catch (ClassNotFoundException e) {

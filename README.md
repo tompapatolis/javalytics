@@ -3,9 +3,9 @@
 ![Javalytics Logo](https://github.com/tomsnews/javalytics/blob/master/Javalytics.jpg)
 
 A tool that converts raw stats data into human readable statistics.
-On many websites entries will be made in order to track visitors behaviour.
+On many websites entries will be made in order to track visitor's behaviour.
 Things like IP adresses, timestamps, referers, page IDs or post IDs will be written in the database.
-This tools converts thousands even millions of entries into easy to read statistical numbers.
+This tools converts thousands even millions of entries into easy to read statistical values.
 
 ## 1. Single Values
 

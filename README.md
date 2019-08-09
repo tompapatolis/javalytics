@@ -112,5 +112,5 @@ CREATE TABLE `stats` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 ## Installing
-Your computer need a Java Runtime (v12). A local MySQL database and a pre-existing stats.sql backup file should be available.
-You will find here a sample.sql file.
+Your computer needs a Java Runtime (https://www.java.com/en/download/). A local MySQL database and a pre-existing stats.sql backup file should be available.
+Included in our Project is a sample.sql file.

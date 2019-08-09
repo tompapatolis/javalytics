@@ -1,6 +1,6 @@
 # Javalytics
 
-![Javalytics Logo](https://github.com/tomsnews/javalytics/blob/master/Javalytics.jpg)
+![Javalytics Logo](https://github.com/tomsnews/javalytics/blob/master/Javalytics.png)
 
 A tool that converts raw stats data into human readable statistics.
 On many websites entries will be made in order to track visitor's behaviour.

@@ -7,6 +7,8 @@ On many websites entries will be made in order to track visitor's behaviour.
 Things like IP adresses, timestamps, referers, page IDs or post IDs will be written in the database.
 This tools converts thousands even millions of entries into easy to read statistical values.
 
+![Javalytics Logo](https://github.com/tomsnews/javalytics/blob/master/screenshot.png)
+
 ## 1. Single Values
 
 ### 1.1 Real-time visitors
